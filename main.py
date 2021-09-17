@@ -144,7 +144,7 @@ key = input(f"{colors.orange}[Roxx Nuker] {colors.red}USERNAME : {colors.red}")
 
 key2 = input(f"{colors.orange}[Roxx Nuker] {colors.red}PASSWORD : {colors.red}")
 
-token = ('ODg0OTk4ODk3MzE4MTIxNTAy.YTgpcw.P1xmBXYhQ6wsq0MZxY1A9pg1310')
+token = input(f"token :::") 
 
 
 
